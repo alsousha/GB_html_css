@@ -1,0 +1,31 @@
+.margin-20 {
+	margin-top: 20px;
+}
+
+.product_img {
+	width: 90%; 
+	border: 10px solid grey;
+}
+
+.glyphicon-star-lg {
+	color: yellow;
+}
+
+.product-prop {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.product-prop_title {
+    width: 130px;
+    color: rgba(0, 0, 0, 0.3);
+    
+}
+
+.product_description>p {
+	text-align: justify;
+}
+
+
+    
